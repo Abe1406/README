@@ -1,1 +1,1 @@
-# Hola soy un texto.
+hola
